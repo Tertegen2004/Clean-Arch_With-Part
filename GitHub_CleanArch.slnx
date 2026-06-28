@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="fa115a5d-bd3e-4077-8651-10e0b33653c2" />
+  <Project Path="Domain/Domain.csproj" Id="39a4382e-9d8e-47f3-b305-0ba7b28a156a" />
+  <Project Path="GitHub_CleanArch/GitHub_CleanArch.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" Id="7b383b3a-da5e-445b-9c59-83b1c814a934" />
+</Solution>
